@@ -2,7 +2,7 @@
 
 
 
-This is the sample application for
+This is the sample application for Paul Luhrsen
 
 [*Ruby on Rails Tutorial:
 
