@@ -63,7 +63,7 @@ Rails.application.configure do
 
   config.action_mailer.delivery_method = :smtp
 
-  host = '<your heroku app>.herokuapp.com'
+  host = 'pluhrsen-rails-sample-app.herokuapp.com/'
 
   config.action_mailer.default_url_options = { host: host }
 
